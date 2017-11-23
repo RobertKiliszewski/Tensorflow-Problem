@@ -46,3 +46,13 @@ In order to run this you need :
 * Tensorflow
 * Keras
 * Jupyter
+
+In order to use Tensorflow and Keras with Jupyter notebook you will need to install them through the anaconda prompt using :
+
+conda install tensorflow 
+
+and 
+
+conda install keras
+
+After installation run Jupyter notebook and open the Tensorflow-Solution.ipynb file to view the solution and soruce code.
