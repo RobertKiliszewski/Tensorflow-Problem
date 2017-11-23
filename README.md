@@ -1,9 +1,9 @@
 # Tensorflow-Problem using Keras
 
-## Introduction
+# Introduction
 This is my 4th year Problem sheet for the Iris data set using Keras as part of Tensorflow.
 
-## Assignment Guide:
+# Assignment Guide:
 
 ### Problem set: Tensorflow
 
@@ -25,15 +25,15 @@ Use the testing set to train your model.
 
 Use the testing set to test your model, clearly calculating and displaying the error rate.
 
-## What is the Iris Data Set?
+# What is the Iris Data Set?
 
 The Iris data set or Fishers Iris data set is a multivariate data set created by Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis.
 
-## What is Tensorflow?
+# What is Tensorflow?
 
 Tensorflow is an open source software developed by Google Brain Team in 2015 which was created and is still used today for numerical computing using data flow graphs.
 
-## What is Keras? 
+# What is Keras? 
 
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
 Its purpose of development was to increase the speed at which you can experiment with data.
